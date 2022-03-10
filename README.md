@@ -11,7 +11,7 @@ Sample login page using nodejs/express
 * Express Session
 
 ### Version
-2.0.0
+1.0.0
 
 ## Usage
 
