@@ -21,15 +21,10 @@ Sample login page using nodejs/express
 Install the dependencies
 
 ```sh
-$ npm install
+$  yarn 
 ```
-Run in production
+ Run in development
 
 ```sh
-$ npm start
-```
-Run in development
-
-```sh
-$ npm run dev
+$  yarn start
 ```
