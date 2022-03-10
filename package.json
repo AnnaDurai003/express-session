@@ -1,0 +1,20 @@
+{
+  "name": "express-session",
+  "version": "1.0.0",
+  "description": "express-session with mysql database",
+  "main": "app.js",
+  "repository": "https://github.com/AnnaDurai003/express-session.git",
+  "author": "AnnaDurai M",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-mysql-session": "^2.1.7",
+    "express-session": "^1.17.2",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "start": "nodemon ./src/app.js"
+  }
+}
